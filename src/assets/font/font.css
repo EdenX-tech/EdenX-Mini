@@ -1,0 +1,8 @@
+
+/* App.vue 或者 App.css */
+@font-face {
+    font-family: 'MyFont';
+    src: url('./zlz.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
